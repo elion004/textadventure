@@ -1,5 +1,3 @@
-"# textadventure" 
-
 Minimum Features
 
 1.	Es gibt einen Loop und man kann den Raum wechseln: vorhanden
